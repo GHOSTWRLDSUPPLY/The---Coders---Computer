@@ -1,0 +1,29 @@
+What is Github?
+===============
+
+<*very strong*> NOT git
+===============
+A way to shared code with others
+
+storage 
+
+online place to store code
+
+version tracking management
+
+review changes more efficiciently
+
+keeps changes until you wish to inplement them
+
+FUNCTIONS - Organizational Uses
+1.lots of team members
+2. work on code on own computer
+3. keep history of work over time
+
+COMMANDS - How to Git A C P
+
+git status = status
+
+git push origin main = Take changes PUSH and commits and sends to Github
+
+git pull origin main = PULLS files from Githhub to local repository
